@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#AEEEEE",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Demo测试小程序",
+    "backgroundColor": "#96CDCD",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  },
+  "sitemapLocation": "sitemap.json"
+}

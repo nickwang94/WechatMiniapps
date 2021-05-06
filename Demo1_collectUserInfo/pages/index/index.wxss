@@ -1,0 +1,17 @@
+/* pages/index/index.wxss */
+.container {
+  height: 100vh;
+  display: flex; /*flex布局方法*/
+  flex-direction: column; /*垂直布局*/
+  align-items: center; /*水平方向居中*/
+  justify-content: space-around; /*垂直方向分散布局*/
+}
+.photoImg {
+  height: 300rpx;
+  width: 300rpx; /*rpx相对长度单位*/
+  border-radius: 50%;
+}
+.centerText {
+  font-size: 50rpx;
+  color: #BBBBBB;
+}
